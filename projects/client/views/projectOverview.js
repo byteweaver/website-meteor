@@ -10,6 +10,5 @@ Template.projectOverview.projects = function() {
     {'name': 'django-polls'},
     {'name': 'django-singleactiveobject'},
     {'name': 'django-eca-catalogue'},
-    {'name': 'django-skeleton'},
   ];
 }
