@@ -1,2 +1,5 @@
 *.swp
 *.swo
+/packages/
+/smart.json
+/smart.lock
